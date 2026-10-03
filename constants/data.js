@@ -923,7 +923,7 @@ export const socialLinks = [
 
   {
     name: "Instagram",
-    url: "YOUR_INSTAGRAM_URL",
+    url: "https://www.instagram.com/dmi.roofingweb",
     icon: "instagram",
   },
 
