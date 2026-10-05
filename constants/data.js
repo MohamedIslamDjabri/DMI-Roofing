@@ -13,7 +13,7 @@ export const siteConfig = {
   specialty: "Roofing Web Development",
   location: "Algeria — Remote Worldwide",
   availability: "Available for selected projects",
-  email: "djabri.islammohamed@gmail.com",
+  email: "islammohamed.djabri@gmail.com",
 
   // Leave empty until you have a real business phone number.
   phone: "",
@@ -832,7 +832,7 @@ export const auditCta = {
 
   buttonLabel: "Request My Free Audit",
 
-  destinationUrl: "mailto:djabri.islammohamed@gmail.com",
+  destinationUrl: "mailto:islammohamed.djabri@gmail.com",
 };
 
 export const contact = {
@@ -841,7 +841,7 @@ export const contact = {
   subheading:
     "Have an outdated website, no website, or a site that could provide a better experience? Let's discuss what can be improved.",
 
-  email: "djabri.islammohamed@gmail.com",
+  email: "islammohamed.djabri@gmail.com",
 
   phone: "",
 
@@ -929,7 +929,7 @@ export const socialLinks = [
 
   {
     name: "Email",
-    url: "mailto:djabri.islammohamed@gmail.com",
+    url: "mailto:islammohamed.djabri@gmail.com",
     icon: "mail",
   },
 ];
